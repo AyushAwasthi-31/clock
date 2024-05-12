@@ -1,0 +1,21 @@
+body{
+    color: aliceblue;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    background-color:#00171f;
+}
+#clocky{
+    height: 120px;
+    width: 700px;
+    font-size: 5rem;
+    font-weight: 1000;
+    padding: 30px 40px;
+    border-radius: 15px;
+    border: 5px solid #092327;
+    color:#007ea7;
+    text-align: center;
+    background-color:#073b4c;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
